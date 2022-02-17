@@ -80,10 +80,10 @@
 //! [d]: Database
 //! [q]: Query
 
-#![warn(rustdoc::all)]
-#![feature(drain_filter)]
-#![feature(fn_traits)]
-#![feature(no_coverage)]
+// #![warn(rustdoc::all)]
+// #![feature(drain_filter)]
+// #![feature(fn_traits)]
+// #![feature(no_coverage)]
 
 #[cfg(test)]
 use mutagen::mutate;
